@@ -1,0 +1,1 @@
+from docker pull mcr.microsoft.com/playwright:v1.62.0-noble
